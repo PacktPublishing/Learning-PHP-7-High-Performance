@@ -1,7 +1,7 @@
-# Jira-7-Administration-Cookbook-Second-Edition
+# Learning-PHP-7-High-Performance
 
-You can read more at [Jira-7-Administration-Cookbook-Second-Edition]
-(https://www.packtpub.com/application-development/jira-7-administration-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785888441)
+You can read more at [Learning-PHP-7-High-Performance]
+(https://www.packtpub.com/application-development/learning-php-7-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781785882265)
 
 ## Instructions
 
