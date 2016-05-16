@@ -12,8 +12,10 @@ The author of this book has covered all grounds that needed to be explored when 
 and other important aspects of application programming including Stress or Load testing.
 
 So go ahead and have fun PHP-ing! 
-Related JIRA Books and Videos
+
+
+Related PHP 7 Books and Videos
 
 * [Learning PHP 7 [Video]] (https://www.packtpub.com/web-development/learning-php-7-video?utm_source=github&utm_medium=repository&utm_campaign=9781785883156)
-* [JIRA 6 Essentials [Video]] (https://www.packtpub.com/application-development/jira-6-essentials-video?utm_source=github&utm_medium=repository&utm_campaign=9781849689243)
-* [JIRA 5.x Development Cookbook] (https://www.packtpub.com/application-development/jira-5x-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781782169086)
+* [Learning PHP 7] (https://www.packtpub.com/application-development/learning-php-7?utm_source=Github&utm_medium=repository&utm_campaign=9781785880544)
+* [Learning PHP Data Objects] (https://www.packtpub.com/web-development/learning-php-data-objects?utm_source=github&utm_medium=repository&utm_campaign=9781847192660)
