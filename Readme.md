@@ -1,3 +1,10 @@
+# Jira-7-Administration-Cookbook-Second-Edition
+
+You can read more at [Jira-7-Administration-Cookbook-Second-Edition]
+(https://www.packtpub.com/application-development/jira-7-administration-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785888441)
+
+## Instructions
+
 Most of the code in this book is for the sake of understnading concepts 
 and provides a great insight into the PHP 7 application development forte.
 
@@ -5,3 +12,8 @@ The author of this book has covered all grounds that needed to be explored when 
 and other important aspects of application programming including Stress or Load testing.
 
 So go ahead and have fun PHP-ing! 
+Related JIRA Books and Videos
+
+* [Learning PHP 7 [Video]] (https://www.packtpub.com/web-development/learning-php-7-video?utm_source=github&utm_medium=repository&utm_campaign=9781785883156)
+* [JIRA 6 Essentials [Video]] (https://www.packtpub.com/application-development/jira-6-essentials-video?utm_source=github&utm_medium=repository&utm_campaign=9781849689243)
+* [JIRA 5.x Development Cookbook] (https://www.packtpub.com/application-development/jira-5x-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781782169086)
